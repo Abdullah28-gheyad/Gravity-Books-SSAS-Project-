@@ -1,0 +1,8 @@
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\bin\Demo_Model.asdatabase
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\bin\Demo_Model.deploymenttargets
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\bin\Demo_Model.deploymentoptions
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\obj\Development\gravity_books_tabular.smproj.AssemblyReference.cache
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\obj\Development\gravity_books_tabular.smproj.CoreCompileInputs.cache
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\obj\Development\Demo_Model.asdatabase
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\obj\Development\Demo_Model.deploymentoptions
+C:\Users\Data\source\repos\gravity_books_tabular\gravity_books_tabular\obj\Development\Demo_Model.deploymenttargets
